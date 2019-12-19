@@ -1,0 +1,5 @@
+#ens
+VAF:tumor_vaf_val
+AAC:amino_acid_change
+Tid:transcript_name
+NC:c_position

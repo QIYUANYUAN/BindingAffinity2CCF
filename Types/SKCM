@@ -1,0 +1,6 @@
+#nuc
+Var:t_alt_count
+Ref:t_ref_count
+AAC:Protein_Change
+Tid:Refseq_mRNA_Id
+NC:cDNA_Change
